@@ -1,0 +1,8 @@
+C:\Users\rudi\source\repos\Utilities\StringExtensionStandard\bin\Debug\netstandard2.0\StringExtensionStandard.deps.json
+C:\Users\rudi\source\repos\Utilities\StringExtensionStandard\bin\Debug\netstandard2.0\StringExtensionStandard.dll
+C:\Users\rudi\source\repos\Utilities\StringExtensionStandard\bin\Debug\netstandard2.0\StringExtensionStandard.pdb
+C:\Users\rudi\source\repos\Utilities\StringExtensionStandard\obj\Debug\netstandard2.0\StringExtensionStandard.csproj.CoreCompileInputs.cache
+C:\Users\rudi\source\repos\Utilities\StringExtensionStandard\obj\Debug\netstandard2.0\StringExtensionStandard.AssemblyInfoInputs.cache
+C:\Users\rudi\source\repos\Utilities\StringExtensionStandard\obj\Debug\netstandard2.0\StringExtensionStandard.AssemblyInfo.cs
+C:\Users\rudi\source\repos\Utilities\StringExtensionStandard\obj\Debug\netstandard2.0\StringExtensionStandard.dll
+C:\Users\rudi\source\repos\Utilities\StringExtensionStandard\obj\Debug\netstandard2.0\StringExtensionStandard.pdb

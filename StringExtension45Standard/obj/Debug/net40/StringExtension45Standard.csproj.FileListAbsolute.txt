@@ -1,0 +1,8 @@
+C:\Users\rudi\source\repos\Utilities\StringExtension45Standard\bin\Debug\net40\StringExtension45Standard.dll
+C:\Users\rudi\source\repos\Utilities\StringExtension45Standard\bin\Debug\net40\StringExtension45Standard.pdb
+C:\Users\rudi\source\repos\Utilities\StringExtension45Standard\obj\Debug\net40\StringExtension45Standard.csproj.CoreCompileInputs.cache
+C:\Users\rudi\source\repos\Utilities\StringExtension45Standard\obj\Debug\net40\StringExtension45Standard.AssemblyInfoInputs.cache
+C:\Users\rudi\source\repos\Utilities\StringExtension45Standard\obj\Debug\net40\StringExtension45Standard.AssemblyInfo.cs
+C:\Users\rudi\source\repos\Utilities\StringExtension45Standard\obj\Debug\net40\StringExtension45Standard.dll
+C:\Users\rudi\source\repos\Utilities\StringExtension45Standard\obj\Debug\net40\StringExtension45Standard.pdb
+C:\Users\rudi\source\repos\Utilities\StringExtension45Standard\obj\Debug\net40\StringExtension45Standard.csprojResolveAssemblyReference.cache

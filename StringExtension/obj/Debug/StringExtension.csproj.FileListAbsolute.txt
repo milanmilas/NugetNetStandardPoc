@@ -1,0 +1,6 @@
+C:\Users\rudi\source\repos\Utilities\StringExtension\bin\Debug\StringExtension.dll
+C:\Users\rudi\source\repos\Utilities\StringExtension\bin\Debug\StringExtension.pdb
+C:\Users\rudi\source\repos\Utilities\StringExtension\obj\Debug\StringExtension.csprojResolveAssemblyReference.cache
+C:\Users\rudi\source\repos\Utilities\StringExtension\obj\Debug\StringExtension.csproj.CoreCompileInputs.cache
+C:\Users\rudi\source\repos\Utilities\StringExtension\obj\Debug\StringExtension.dll
+C:\Users\rudi\source\repos\Utilities\StringExtension\obj\Debug\StringExtension.pdb

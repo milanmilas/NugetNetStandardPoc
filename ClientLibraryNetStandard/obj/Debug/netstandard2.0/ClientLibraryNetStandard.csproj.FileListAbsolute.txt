@@ -1,0 +1,9 @@
+C:\Users\rudi\source\repos\Utilities\ClientLibraryNetStandard\bin\Debug\netstandard2.0\ClientLibraryNetStandard.deps.json
+C:\Users\rudi\source\repos\Utilities\ClientLibraryNetStandard\bin\Debug\netstandard2.0\ClientLibraryNetStandard.dll
+C:\Users\rudi\source\repos\Utilities\ClientLibraryNetStandard\obj\Debug\netstandard2.0\ClientLibraryNetStandard.csproj.CoreCompileInputs.cache
+C:\Users\rudi\source\repos\Utilities\ClientLibraryNetStandard\obj\Debug\netstandard2.0\ClientLibraryNetStandard.AssemblyInfoInputs.cache
+C:\Users\rudi\source\repos\Utilities\ClientLibraryNetStandard\obj\Debug\netstandard2.0\ClientLibraryNetStandard.AssemblyInfo.cs
+C:\Users\rudi\source\repos\Utilities\ClientLibraryNetStandard\bin\Debug\netstandard2.0\ClientLibraryNetStandard.pdb
+C:\Users\rudi\source\repos\Utilities\ClientLibraryNetStandard\obj\Debug\netstandard2.0\ClientLibraryNetStandard.dll
+C:\Users\rudi\source\repos\Utilities\ClientLibraryNetStandard\obj\Debug\netstandard2.0\ClientLibraryNetStandard.pdb
+C:\Users\rudi\source\repos\Utilities\ClientLibraryNetStandard\obj\Debug\netstandard2.0\ClientLibraryNetStandard.csprojResolveAssemblyReference.cache
